@@ -34,11 +34,11 @@ class Player {
 ## Screenshots
 
 ### Gameplay
-![Alt Text](https://github.com/indu1824/-Space-Invaders-Game-/blob/main/Screenshot%202025-08-24%20144528.png)
+![Alt Text](https://github.com/indu1824/-Space-Invaders-Game-/raw/main/Screenshot%202025-08-24%20144528.png)
 
 ### Scoreboard
-![Alt Text](https://github.com/indu1824/-Space-Invaders-Game-/blob/main/Screenshot%202025-08-24%20144659.png)
-![Alt Text](https://github.com/indu1824/-Space-Invaders-Game-/blob/main/Screenshot%202025-08-24%20145038.png)
+![Alt Text](https://github.com/indu1824/-Space-Invaders-Game-/raw/main/Screenshot%202025-08-24%20144659.png)
+![Alt Text](https://github.com/indu1824/-Space-Invaders-Game-/raw/main/Screenshot%202025-08-24%20145038.png)
 
 ### Power-ups
-![Alt Text](https://github.com/indu1824/-Space-Invaders-Game-/blob/main/Screenshot%202025-08-24%20145526.png)
+![Alt Text](https://github.com/indu1824/-Space-Invaders-Game-/raw/main/Screenshot%202025-08-24%20145526.png)
